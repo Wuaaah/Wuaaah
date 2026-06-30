@@ -48,8 +48,7 @@
 ### ⏱️ Coding Time Tracking
 
 <div align="center">
-  <img src="https://github-readme-stats-two-lovat-63.vercel.app
-/api/wakatime?username=Wuaaah&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-two-lovat-63.vercel.app/api/wakatime?username=Wuaaah&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 <br/><br/>
