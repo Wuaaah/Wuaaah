@@ -16,7 +16,7 @@
         <li>📞 Offering services for Web and Mobile Application and Automation</li>
       </ul>
       <p>
-        <img src="https://komarev.com/ghpvc/?username=Wuaah&color=green&style=flat-square&label=visitors" class="height:200px" alt="Visitors count" />
+        <img src="https://komarev.com/ghpvc/?username=Wuaah&color=green&style=flat-square&label=visitors"  alt="Visitors count" />
       </p>
       <p>
         <a href="mailto:lapitanjoshua2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -29,7 +29,7 @@
     </td>
     <td valign="center" width="40%">
       <!-- You can replace this URL with your preferred coding illustration -->
-      <img src="https://raw.githubusercontent.com/Wuaaah/Wuaaah/main/avatar.jpg" width="100%" alt="Illustration" />
+      <img src="https://raw.githubusercontent.com/Wuaaah/Wuaaah/main/avatar.jpg" width="100%" height="50%" alt="Illustration" />
     </td>
   </tr>
 </table>
