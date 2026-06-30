@@ -16,7 +16,7 @@
         <li>📞 Offering services for Web and Mobile Application and Automation</li>
       </ul>
       <p>
-        <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green&style=flat-square&label=visitors" alt="Visitors count" />
+        <img src="https://komarev.com/ghpvc/?username=Wuaah&color=green&style=flat-square&label=visitors" alt="Visitors count" />
       </p>
       <p>
         <a href="mailto:lapitanjoshua2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
