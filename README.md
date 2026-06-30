@@ -27,10 +27,7 @@
         <!-- <a href="https://wa.me/YOUR_WHATSAPP"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> -->
       </p>
     </td>
-    <td valign="center" width="40%">
-      <!-- You can replace this URL with your preferred coding illustration -->
-      <img src="https://raw.githubusercontent.com/Wuaaah/Wuaaah/main/avatar.jpg" width="100%" height="50%" alt="Illustration" />
-    </td>
+   
   </tr>
 </table>
 
