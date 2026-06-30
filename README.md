@@ -40,14 +40,17 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wuaaah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuaaah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-two-lovat-63.vercel.app/api?username=Wuaaah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-two-lovat-63.vercel.app/api/top-langs/?username=Wuaaah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
-### 🏆 Trophies
+### ⏱️ Coding Time Tracking
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wuaaah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-readme-stats-two-lovat-63.vercel.app
+/api/wakatime?username=Wuaaah&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="WakaTime Stats" />
+</div>
 
 <br/><br/>
 
