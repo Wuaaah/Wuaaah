@@ -13,7 +13,7 @@
         <li>💻 Focused on learning and improving</li>
         <li>📝 Enjoy working on a variety of projects</li>
         <li>🤝 Open to collaboration</li>
-        <li>📞 Offering services for [Your Services]</li>
+        <li>📞 Offering services for Web and Mobile Application and Automation</li>
       </ul>
       <p>
         <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green&style=flat-square&label=visitors" alt="Visitors count" />
